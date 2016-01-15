@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinService", "WinService\WinService.csproj", "{ECCFFA4B-DABD-4234-A337-B5DF8E0D2942}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KioskWebService", "KioskWebService\KioskWebService.csproj", "{C24B9E9D-12A2-48C6-8095-9632BE1E2C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{E53E12AF-79AC-4ECA-B6FC-19DB07A7D136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{ECCFFA4B-DABD-4234-A337-B5DF8E0D2942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECCFFA4B-DABD-4234-A337-B5DF8E0D2942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECCFFA4B-DABD-4234-A337-B5DF8E0D2942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24B9E9D-12A2-48C6-8095-9632BE1E2C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24B9E9D-12A2-48C6-8095-9632BE1E2C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24B9E9D-12A2-48C6-8095-9632BE1E2C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24B9E9D-12A2-48C6-8095-9632BE1E2C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53E12AF-79AC-4ECA-B6FC-19DB07A7D136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53E12AF-79AC-4ECA-B6FC-19DB07A7D136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53E12AF-79AC-4ECA-B6FC-19DB07A7D136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53E12AF-79AC-4ECA-B6FC-19DB07A7D136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

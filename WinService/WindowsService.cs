@@ -9,9 +9,9 @@ using System.Text;
 
 namespace WinService
 {
-    public partial class Service1 : ServiceBase
+    public partial class WindowsService : ServiceBase
     {
-        public Service1()
+        public WindowsService()
         {
             InitializeComponent();
         }
