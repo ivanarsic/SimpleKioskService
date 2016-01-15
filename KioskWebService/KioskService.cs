@@ -12,17 +12,17 @@ namespace KioskWebService
     {
         public void SetKioskMode(string appPath)
         {
-            throw new NotImplementedException();
+            //TODO
         }
 
         public void ResetKioskMode()
         {
-            throw new NotImplementedException();
+            //TODO
         }
 
         public bool GetKioskMode()
         {
-            throw new NotImplementedException();
+            return true;
         }
     }
 }

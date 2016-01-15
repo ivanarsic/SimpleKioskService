@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinService", "WinService\Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KioskWebService", "KioskWebService\KioskWebService.csproj", "{C24B9E9D-12A2-48C6-8095-9632BE1E2C46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{E53E12AF-79AC-4ECA-B6FC-19DB07A7D136}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleService", "Console\ConsoleService.csproj", "{E53E12AF-79AC-4ECA-B6FC-19DB07A7D136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
